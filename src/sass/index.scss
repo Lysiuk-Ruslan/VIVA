@@ -1,0 +1,18 @@
+// base styles
+
+@import './base/reset';
+// @import './base/variables';
+// @import './base/common';
+@import './base/container';
+
+// utils styles
+
+// @import './utils/mixins.scss';
+// @import './utils/placeholders';
+// @import './base/container';
+
+// layout home styles
+
+@import './layout/home/menu';
+@import './layout/home/banner';
+@import './layout/home/aboutMe';
